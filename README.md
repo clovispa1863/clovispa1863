@@ -1,16 +1,26 @@
-## Hi there 👋
+# Bonjour !
 
-<!--
-**clovispa1863/clovispa1863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Bienvenue sur mon profil GitHub !
 
-Here are some ideas to get you started:
+### 🎓 Qui suis-je ?
+Je m'appelle **Clovis Perrichon--Agier**, j'ai 14 ans, et je suis en classe de seconde. Je m'intéresse particulièrement aux domaines scientifiques et technologiques, avec une ambition de poursuivre des études dans ces secteurs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Compétences
+- **Langages de programmation :**
+    - C++, en particlier avec France-IOI
+    - Javascript/SASS/JSX/SWIFT : développement web et mobile
+- **Systèmes d'exploitations :** Windows 11 + Kali Linux et macOS 14 sur machines virtuelles
+- **Centres d'intérêt :** Cryptographie, algorithmique, ...
+
+---
+
+### 🌟 Objectifs
+- M'améliorer en programmation.
+- Obtenir ma certification GitHub.
+
+---
+
+### 📬 Contact
+Si besoin, voici mon email : clovispa1863@gmail.com
