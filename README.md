@@ -8,17 +8,17 @@ Je m'appelle **Clovis Perrichon--Agier**, j'ai 14 ans, et je suis en classe de s
 ---
 
 ### 💻 Compétences
-- **Langages de programmation :**
-    - C++, en particlier avec France-IOI
-    - Javascript/SASS/JSX/SWIFT : développement web et mobile
-- **Systèmes d'exploitations :** Windows 11 + Kali Linux et macOS 14 sur machines virtuelles
-- **Centres d'intérêt :** Cryptographie, algorithmique, ...
+👉 **Langages de programmation :**
+    👉 C++, en particlier avec France-IOI
+    👉 Javascript/SASS/JSX/SWIFT : développement web et mobile
+👉 **Systèmes d'exploitations :** Windows 11 + Kali Linux et macOS 14 sur machines virtuelles
+👉 **Centres d'intérêt :** Cryptographie, algorithmique, ...
 
 ---
 
 ### 🌟 Objectifs
-- M'améliorer en programmation.
-- Obtenir ma certification GitHub.
+👉 M'améliorer en programmation.
+👉 Obtenir ma certification GitHub.
 
 ---
 
